@@ -1,2 +1,2 @@
-# Algorithms_in_C-
+# Algorithms_in_C++
 Implement some data structures and algorithms in C++.
