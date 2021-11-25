@@ -1,5 +1,5 @@
 //C++ program to perform huffman coding
-/*algorith,
+/*algorithm,
 Steps to build Huffman Tree
 1.Input is an array of unique characters along with their frequency of occurrences and output is Huffman Tree. 
 2.Create a leaf node for each unique character and build a min heap of all leaf nodes (Min Heap is used as a 

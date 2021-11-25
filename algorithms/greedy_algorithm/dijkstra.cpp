@@ -1,5 +1,6 @@
 // A C++ program for Dijkstra's single source shortest path algorithm.
-// The program is for adjacency matrix representation of the graph
+//NOTE the optimal implement is in "graph/shortest_path.cpp", which exploits C++ STL priority queue.
+// The program is for adjacency matrix representation of the graph.
 #include <iostream>
 using namespace std;
 #include <limits.h>

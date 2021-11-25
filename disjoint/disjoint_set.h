@@ -6,11 +6,12 @@ class Disjoint_Set
 {
     int n; //total items
     int *parent, *rank;
-    void LINK(int, int);
 
 public:
     Disjoint_Set(int);
     int FIND_SET(int);
+    void LINK(int, int);
+    void custom_LINK(int, int); //should define by yourself according to specific task
     void UNION(int, int);
     ~Disjoint_Set();
 };

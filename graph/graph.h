@@ -40,6 +40,7 @@ public:
     void topological_sort_kahn();
     void find_all_topological_sort();
     void longest_path_from_src(int);
+    void shortest_path_from_src(int);
     void primMST();
     bool exist_path_over_k_from_src(int, int);
     ~Graph();
